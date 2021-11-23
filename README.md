@@ -6,3 +6,4 @@ https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-progr
 LOG:
 --- Tuesday November 23rd, 2021 ---
 - Created git repository.
+- Created first classes for review.
